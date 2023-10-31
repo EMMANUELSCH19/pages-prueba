@@ -1,0 +1,7 @@
+.border-default{
+    border: dashed 1px transparent;
+}
+
+.group-components .border-selected{
+    box-shadow: 0 0 0 1px blue inset !important;
+}
